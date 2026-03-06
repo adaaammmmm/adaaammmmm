@@ -16,9 +16,7 @@ I'm an Mathematics student at the University of Birmingham, interested in mathem
 
 ## Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+Python, Matlab, R
 
 ---
 
