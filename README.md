@@ -1,16 +1,39 @@
-## Hi there 👋
+```markdown
+# Hi, I'm Adam
 
-<!--
-**adaaammmmm/adaaammmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Mathematics student at the University of Birmingham, interested in mathematical modelling, analysis, and the ways maths shapes the real world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- University of Birmingham - BSc Mathematics
+- Focus: Applied Mathematics
+- Currently exploring: differential equations, numerical methods & mathematical modelling
+- Always looking for connections between abstract theory and real-world problems
+
+---
+
+## Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+---
+
+## Interests
+
+- Mathematical modelling & simulation
+- Numerical analysis & computation
+- Fluid dynamics & mechanics
+- Statistics & data-driven methods
+
+---
+
+## Get in Touch
+
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [your.email@example.com](mailto:your.email@example.com)
+
+---
