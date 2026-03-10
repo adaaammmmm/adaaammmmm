@@ -28,10 +28,3 @@ Python, Matlab, R
 - Statistics & data-driven methods
 
 ---
-
-## Get in Touch
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [your.email@example.com](mailto:your.email@example.com)
-
----
